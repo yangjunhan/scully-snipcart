@@ -19,6 +19,6 @@ The original GitHub repo is [here](https://github.com/snipcart/scully-snipcart-s
   
   ## Credits
   
-  Credits go to the author of the blog, [Charles Ouellet](https://twitter.comcouellet), [Snipcart
+  Credits go to the author of the blog, [Charles Ouellet](https://twitter.com/couellet), [Snipcart
   ](https://snipcart.com/) and
    [Scully.io](https://scully.io/) which is beyond SSG. 
