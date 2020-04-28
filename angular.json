@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "scully-snipcart"
+    }
+  },
+  "defaultProject": "scully-snipcart",
+  "cli": {
+    "analytics": "0ef9496e-c301-4207-a3aa-e34151c55392"
+  }
 }
