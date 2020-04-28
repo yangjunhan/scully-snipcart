@@ -3,7 +3,7 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.3.
 
 This is replicated step-by-step through the blog 
-"[Scully Tutorial: A Static Site Generator for Angular Websites](https://snipcart.com/blogangular-static-site-generator-scully)". 
+"[Scully Tutorial: A Static Site Generator for Angular Websites](https://snipcart.com/blog/angular-static-site-generator-scully)". 
 The original GitHub repo is [here](https://github.com/snipcart/scully-snipcart-store).
  
  ## Steps to reproduce static site
